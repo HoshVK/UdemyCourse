@@ -1,0 +1,85 @@
+.container-white{
+padding: 20px 20px 0 20px;
+background-color: #fff;
+}
+.img-height{
+    max-height: 600px;
+    width: auto;
+}
+.form-style{
+    max-width: 300px;
+    border:1px solid #dddddd;
+    padding: 20px;
+    margin: 20px;
+}
+.instagram{
+    width: 100%;
+    margin: 10px 0;
+    
+}
+.instagram img{
+    width: 150px;
+    display: block;
+    margin: auto;
+}
+.division{
+text-align: center;
+vertical-align: top;
+}
+.linea{
+height: 7px;
+background-color: #ddd;
+width: 40%;
+display: inline-block;
+border: 3px solid#fff;
+}
+.circulo{
+    margin: 0 8px;
+    display: inline-block;
+    border-radius: 50%;
+    width: 8px;
+    height: 10px;
+    border: 2px solid#aaa;
+}
+.facebook{
+    margin-top: 5px;
+    font-size: 15px;
+    text-align: center;
+    color: #007bff;
+}
+.facebook img{
+    height: 22px;
+    display: inline-block;
+    padding: 0;
+}
+.facebook p{
+    margin-top: 10px;
+}
+.bold{
+    font-weight: 600;
+    line-height: 22px;
+    font-size: 17px;
+    display: inline-block;
+}
+.botones{
+    max-width: 350px;
+}
+.boton {
+    width: 130px
+}
+footer{
+    margin-top: 10px;
+}
+a {
+    color:  #007bff;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-right: 15px;
+    font-size: 12px;
+}
+.copyright {
+    color: #ddd;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 12px;
+}
